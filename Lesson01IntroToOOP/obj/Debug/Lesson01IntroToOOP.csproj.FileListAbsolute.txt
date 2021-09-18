@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\bin\Debug\Lesson01IntroToOOP.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\bin\Debug\Lesson01IntroToOOP.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\bin\Debug\Lesson01IntroToOOP.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\obj\Debug\Lesson01IntroToOOP.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\obj\Debug\Lesson01IntroToOOP.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\obj\Debug\Lesson01IntroToOOP.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson01IntroToOOP\obj\Debug\Lesson01IntroToOOP.pdb
