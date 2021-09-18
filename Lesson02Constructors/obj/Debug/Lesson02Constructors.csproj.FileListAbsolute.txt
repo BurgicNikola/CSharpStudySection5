@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\bin\Debug\Lesson02Constructors.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\bin\Debug\Lesson02Constructors.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\bin\Debug\Lesson02Constructors.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\obj\Debug\Lesson02Constructors.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\obj\Debug\Lesson02Constructors.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\obj\Debug\Lesson02Constructors.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson02Constructors\obj\Debug\Lesson02Constructors.pdb
