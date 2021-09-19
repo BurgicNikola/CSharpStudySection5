@@ -22,6 +22,13 @@ namespace Lesson03GettersAndSetters
 
         }
 
+        public int FrontSurface
+        {
+            get
+            {
+                return Height * this.length;
+            }
+        }
         public void SetLength(int length)
         {
             if(length < 1)

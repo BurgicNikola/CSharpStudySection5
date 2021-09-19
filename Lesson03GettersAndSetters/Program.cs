@@ -14,7 +14,7 @@ namespace Lesson03GettersAndSetters
 
             box.DisplayInfo();
             box.DisplayVolume();
-
+            Console.WriteLine(box.FrontSurface);
             box.SetLength(9);
             box.Height = 2;
             box.Width = 5;
