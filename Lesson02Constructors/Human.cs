@@ -24,10 +24,50 @@ namespace Lesson02Constructors
             this.age = age;
         }
 
+        public Human()
+        {
+        }
+
+        public Human(string firstName)
+        {
+            this.firstName = firstName;
+        }
+
+        public Human(string firstName, string lastName)
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
+        }
+
+        public Human(string firstName, int age)
+        {
+            this.firstName = firstName;
+            this.age = age;
+        }
+
         // Member method
         public void IntroduceMyself()
         {
-            Console.WriteLine($"Hi, I'm {firstName} {lastName} and I'm {age} years old. The color of my eyes is {eyeColor}.");
+            if (age > 0 && firstName != null && lastName != null && eyeColor != null)
+            {
+                Console.WriteLine($"Hi, I'm {firstName} {lastName} and I'm {age} years old. The color of my eyes is {eyeColor}.");
+            }
+            else if (firstName != null && lastName != null && age <= 0 && eyeColor == null)
+            {
+                Console.WriteLine($"Hi, I'm {firstName} {lastName}.");
+            }
+            else if(firstName != null && lastName == null && age > 0 && eyeColor == null)
+            {
+                Console.WriteLine($"Hi, I'm {firstName} and I'm {age} years old.");
+            }
+            else if(age <= 0 && firstName != null && lastName == null && eyeColor == null)
+            {
+                Console.WriteLine($"Hi, I'm {firstName}.");
+            }
+            else
+            {
+                Console.WriteLine("Hi!");
+            }
         }
     }
 }

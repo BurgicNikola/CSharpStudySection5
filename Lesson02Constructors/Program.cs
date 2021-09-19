@@ -16,6 +16,19 @@ namespace Lesson02Constructors
             Human peter = new Human("Peter", "McDude", "green", 55);
             peter.IntroduceMyself();
 
+            Human noName = new Human();
+            noName.IntroduceMyself();
+
+            Human zara = new Human("Zara");
+            zara.IntroduceMyself();
+
+            Human dinja = new Human("Dinja", 26);
+            dinja.IntroduceMyself();
+
+            Human visnja = new Human("Visnja", "Visnjic");
+            visnja.IntroduceMyself();
+
+
             Console.ReadLine();
         }
     }
