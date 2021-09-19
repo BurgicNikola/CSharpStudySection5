@@ -10,14 +10,19 @@ namespace Lesson03GettersAndSetters
     {
         static void Main(string[] args)
         {
-            Box box = new Box();
-
-            box.SetLength(9);
-            box.height = 2;
-            box.width = 5;
+            Box box = new Box(2,3,4);
 
             box.DisplayInfo();
             box.DisplayVolume();
+
+            box.SetLength(9);
+            box.Height = 2;
+            box.Width = 5;
+
+            box.DisplayInfo();
+            box.DisplayVolume();
+
+
 
             Console.ReadLine();
         }

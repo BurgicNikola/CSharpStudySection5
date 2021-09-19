@@ -9,9 +9,18 @@ namespace Lesson03GettersAndSetters
     class Box
     {
         private int length;
-        public int width;
-        public int height;
-        public int volume;
+        private int width;
+        public int Height { get; set; }
+        //public int height;
+        //public int volume;
+
+        public Box(int length, int width, int height)
+        {
+            this.length = length;
+            Width = width;
+            Height = height;
+
+        }
 
         public void SetLength(int length)
         {
@@ -27,14 +36,35 @@ namespace Lesson03GettersAndSetters
             return this.length;
         }
 
+        public int Width
+        {
+            get
+            {
+                return this.width;
+            }
+            set
+            {
+                this.width = value;
+            }
+        }
+
+
+        public int Volume 
+        { 
+            get
+            {
+                return this.length * this.width * this.Height;
+            }
+        }
+
         public void DisplayVolume()
         {
-            Console.WriteLine($"The volume of the box is {length * width * height}.");
+            Console.WriteLine($"The volume of the box is {length * width * Height}.");
         }
 
         public void DisplayInfo()
         {
-            Console.WriteLine($"The length of the box is {length}, the width is {width}, the height is {height} and the volume is {length * width * height}.");
+            Console.WriteLine($"The length of the box is {length}, the width is {width}, the height is {Height} and the volume is {Volume}.");
         }
     }
 }
