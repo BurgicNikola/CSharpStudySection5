@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\bin\Debug\Lesson03GettersAndSetters.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\bin\Debug\Lesson03GettersAndSetters.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\bin\Debug\Lesson03GettersAndSetters.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\obj\Debug\Lesson03GettersAndSetters.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\obj\Debug\Lesson03GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\obj\Debug\Lesson03GettersAndSetters.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson03GettersAndSetters\obj\Debug\Lesson03GettersAndSetters.pdb
