@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\bin\Debug\Lesson04Members.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\bin\Debug\Lesson04Members.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\bin\Debug\Lesson04Members.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\obj\Debug\Lesson04Members.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\obj\Debug\Lesson04Members.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\obj\Debug\Lesson04Members.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection05\Lesson04Members\obj\Debug\Lesson04Members.pdb
